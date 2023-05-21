@@ -1,3 +1,3 @@
-module github.com/work-bee/jobsite
+module github.com/azeroth-sha/jobsite
 
-go 1.17
+go 1.20
